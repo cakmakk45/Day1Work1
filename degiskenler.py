@@ -15,9 +15,9 @@ print(type(vade))
 print(type(haber))
 
 mesaj = "Hoşgeldin"
-müsteriAdi = "Kadriye"
-müsteriSoyadi = "Çakmak"
-sonucMesaj = mesaj+ " " + müsteriAdi + " " + müsteriSoyadi + "!"
+musteriAdi = "Kadriye"
+musteriSoyadi = "Çakmak"
+sonucMesaj = mesaj+ " " + musteriAdi + " " + musteriSoyadi + "!"
 print(sonucMesaj)
 
 sayi1 = 13
